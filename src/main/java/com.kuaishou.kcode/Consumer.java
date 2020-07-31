@@ -7,6 +7,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.stream.Collectors;
 
+/**
+	author by tangsz
+*/
 
 public class Consumer extends Thread {
     BlockingQueue<List<Operation>> deque;

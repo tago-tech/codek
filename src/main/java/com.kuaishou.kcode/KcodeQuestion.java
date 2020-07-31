@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.concurrent.*;
 
 /**
- * @author kcode
+ * @author tangsz
  * Created on 2020-05-20
  */
 public class KcodeQuestion {
